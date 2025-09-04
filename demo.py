@@ -89,7 +89,7 @@ def demo(args):
             with tqdm(total=len(image_names), desc="Relocalizing") as pbar:
                 for img_split in images.split(20, dim=0):
                     pbar.update(20)
-                    predictions += to_cpu(model.reloc(img_split))
+                    predictions += to_cpu(model.reloc(img_split, memory_save=False))
 
             # save the predicted point cloud and camera poses
 
