@@ -4,7 +4,7 @@
 
 <a href="https://arxiv.org/pdf/2508.17972"><img src="https://img.shields.io/badge/arXiv-2508.17972-b31b1b" alt="arXiv"></a>
 <a href="https://hkust-sail.github.io/sail-recon/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
-<!--<a href='https://huggingface.co/'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>-->
+<a href='https://huggingface.co/spaces/HKUST-SAIL/SAIL-Recon'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
 
 **[HKUST Spatial Artificial Intelligence Lab](https://github.com/HKUST-SAIL)**; **[Horizon Robotics](https://en.horizon.auto/)**
