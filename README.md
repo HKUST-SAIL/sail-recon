@@ -77,8 +77,10 @@ If you find this project useful in your research, please consider citing:
 @article{dengli2025sail,
   title={SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization},
   author={Deng, Junyuan and Li, Heng and Xie, Tao and Ren, Weiqiang and Zhang, Qian and Tan, Ping and Guo, Xiaoyang},
-  journal={arXiv preprint arXiv:2508.17972},
-  year={2025}
+  journal       = {2026 International Conference on 3D Vision (3DV).},
+  year          = {2026},
+  archivePrefix = {IEEE},
+  primaryClass  = {cs.CV}
 }
 ```
 
