@@ -24,7 +24,7 @@ Sail-Recon is a feed-forward Transformer that scales neural scene regression to 
 ## TODO
 - [x] Inference Code Release
 - [x] Gradio Demo
-- [ ] Evaluation Script
+- [x] Evaluation Script
 
 ## Quick Start
 

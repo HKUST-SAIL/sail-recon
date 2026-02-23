@@ -108,3 +108,8 @@ and [associated code](https://github.com/tsattler/visloc_pseudo_gt_limitations/)
     sh run_co3d.sh
     ```
     You will see evaluation result in the terminal.
+
+
+# ACE0 Eval
+
+Please follow [ace0](https://github.com/HKUST-SAIL/SAIL_Recon_eval) .
